@@ -8,5 +8,3 @@ mnt = int(input('Minute: '))
 pywhatkit.sendwhatmsg('+31'+wat_no, msg, hr, mnt)
 
 
-#pywhatkit.sendwhatmsg('+31650
-# 828708', 'What time are you goingout?', 15, 35)
